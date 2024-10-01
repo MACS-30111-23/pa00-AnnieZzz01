@@ -33,7 +33,7 @@ First, I initialized my Git repository in my project directory. After that, I ed
 Using Markdown to format the README has taught me how to build a well-structured document with simple syntax, and how to combine various elements such as links, lists, images, etc. in a clear and straightforward format. It's very easy to use, and I can do it locally through my terminal or GitHub.
 
 ## Links
-- [LinkedIn Profile](www.linkedin.com/in/zhiyue-zhang-763677327)
+- [LinkedIn Profile](https://www.linkedin.com/in/zhiyue-zhang-763677327)
 
 Thank you for reading my biography!
 

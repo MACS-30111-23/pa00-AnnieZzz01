@@ -11,7 +11,31 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Links
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
+# Biography of Annie Zhang
 
+## Introduction
+Hello! My name is **Zhiyue (Annie) Zhang** and I'm currently a graduate student at [MACSS program]. I am passionate about [taking photography, playing golf, and dancing].
+
+![Profile Picture](path_to_your_image.jpg)
+
+## Academic Background and Interests
+- **Major:** Undergrad studies in I/O psychology, statistics, and economics
+- **Interests:**
+  - *Data Science*
+  - *Psychology*
+  - *Economics*
+  
+## Personal Reflection on Git/GitHub Workflow
+First, I initialized my Git repository in my project directory. After that, I edited the README.md file using Markdown to include my biography and project details. Simultaneously, I created and edited script.py using Python to meet the project requirements. Once the editing process was complete, I committed all my changes to the main branch. Finally, I pushed the commits to my GitHub repository to ensure all changes were visible online and properly backed up. This process allowed me to keep track of my project changes efficiently and ensured a clean and organized workflow.
+
+
+## Reflection on Using Markdown
+Using Markdown to format the README has taught me how to build a well-structured document with simple syntax, and how to combine various elements such as links, lists, images, etc. in a clear and straightforward format. It's very easy to use, and I can do it locally through my terminal or GitHub.
+
+## Links
+- [LinkedIn Profile](www.linkedin.com/in/zhiyue-zhang-763677327)
+
+Thank you for reading my biography!
 
 
 ## 📚  Resources 

@@ -16,7 +16,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 ## Introduction
 Hello! My name is **Zhiyue (Annie) Zhang** and I'm currently a graduate student at [MACSS program]. I am passionate about [taking photography, playing golf, and dancing].
 
-![Profile Picture](path_to_your_image.jpg)
+![Profile Picture](pic.jpg)
 
 ## Academic Background and Interests
 - **Major:** Undergrad studies in I/O psychology, statistics, and economics
